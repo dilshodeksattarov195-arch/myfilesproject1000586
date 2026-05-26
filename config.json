@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "ordersrocess",
+        "uuid": 1102266,
+        "checksum": "fld1p"
+    },
+    "settings": {
+        "retries": 4,
+        "enabled": true,
+        "mode": "staging"
+    }
+}
